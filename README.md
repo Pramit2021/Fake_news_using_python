@@ -8,7 +8,10 @@ Fake news can originate from any number of sources and is shared across differen
 Fake news although is not a big threat and exist across variety of media-like TV, radio and online media-much of recent discourse around fake news involves social media platforms. Fake news are often spread through social media sites, despite efforts by many companies to identify and remove them.
 The problem is very challenging because the bots getting better are tricking us. it is not so easy to detect wether the information is true or fake all the time, that is why better systems are required that can help us understand the patterns of fake news.
  
-## Files required:
+## Purpose
+In this project i will explain several ways to detect fake news using the data collected from different articles. The same technique can be applied for different scenarios also. In this project we use the python code in order to load, clean and analyze the data. We use machine learning models to perform classification task.
+
+## The Data:
 The following files are required:
 * True.xlsx: This file consists of 21417 true news with colums of title, text, subject and date.
 * Fake.xlsx: This file consists of 23432 fake news with colums of title, text, subject and date.
