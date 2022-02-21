@@ -12,8 +12,8 @@ The problem is very challenging because the bots getting better are tricking us.
 In this project i will explain several ways to detect fake news using the data collected from different articles. The same technique can be applied for different scenarios also. In this project we use the python code in order to load, clean and analyze the data. We use machine learning models to perform classification task.
 
 ## The Data:
-The following files are required:
+The data consists of two files collected from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) as follows:
 * `True.xlsx: This file consists of 21417 true news with colums of title, text, subject and date.`
 * `Fake.xlsx: This file consists of 23432 fake news with colums of title, text, subject and date.`
 
-The files were collected from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+
