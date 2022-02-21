@@ -13,6 +13,6 @@ In this project i will explain several ways to detect fake news using the data c
 
 ## The Data:
 The following files are required:
-* True.xlsx: This file consists of 21417 true news with colums of title, text, subject and date.
-* Fake.xlsx: This file consists of 23432 fake news with colums of title, text, subject and date.
+* `True.xlsx: This file consists of 21417 true news with colums of title, text, subject and date.`
+* `Fake.xlsx: This file consists of 23432 fake news with colums of title, text, subject and date.`
 The files were collected from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
