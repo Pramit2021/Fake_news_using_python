@@ -1,6 +1,7 @@
 
 # DETECTION OF FAKE NEWS
 
+## About this project
 
 ## The Problem
 Majority of news consumers see fake news as a major problem in the present generation. A fake news are a kind of news story that are false: the story is itself fabricated, with no verifiable facts, sources or quotes.
